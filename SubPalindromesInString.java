@@ -14,3 +14,9 @@ for(i=0;i<n;i++)
  
 }
 //Not yet verified inthe system.
+O/P:
+H
+e
+l
+ll
+o
